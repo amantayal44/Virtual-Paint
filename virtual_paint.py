@@ -10,8 +10,8 @@ cap.set(4,frameHeight)
 cap.set(10,150) #brightness
 
 # use color_picker to find (h_min,s_min,v_min,h_max,s_max,v_max)
-ColorHSV = [[87,96,26,151,185,172],
-            [156,123,74,179,207,119]]
+ColorHSV = [[87,96,26,151,185,172], #BLUE
+            [156,123,74,179,207,119]] #PINK
 ColorValues = [[237,63,24],
                  [237,24,159]]
 
